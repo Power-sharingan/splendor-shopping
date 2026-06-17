@@ -9,318 +9,178 @@
  */
 {
   "sections": {
-    "gp_shopify_original_section_624186988517393224": {
-      "type": "gp-section-624186988517393224",
+    "gp_shopify_original_section_624199556262790100": {
+      "type": "gp-section-624199556262790100",
+      "settings": {
+        "checksum": "",
+        "gghWFO2Zayd_srcSet_desktop_src": "https://cdn.shopify.com/s/files/1/2005/9307/files/myimage_20_2147d53c-04aa-4175-b00e-fa18967900e8.png",
+        "gg-rNwmvaW2_text": "<p>100% Money-Back Guarantee</p>",
+        "ggvuQERaoWa_text": "<p>If you are not 100% satisfied with your purchase, then you may return your order for a full refund with no questions asked.</p><p>&nbsp;</p><p>With 50,000+ 5-star reviews, we pledge to provide you with the highest levels of value, quality, and personal service available, so your complete satisfaction is guaranteed.</p>"
+      }
+    },
+    "gp_shopify_original_section_624199559534346782": {
+      "type": "gp-section-624199559534346782",
+      "settings": {
+        "checksum": "",
+        "gg6GdQ2srDO_text": "FREQUENTLY ASKED QUESTIONS",
+        "ggH-sv5FpYM_childItem_0": "How does GemSleep help you sleep?",
+        "ggH-sv5FpYM_childItem_1": "What are the common side effects of GemSleep?",
+        "ggH-sv5FpYM_childItem_2": "Does GemSleep make me feel groggy the next day?",
+        "ggH-sv5FpYM_childItem_3": "Can I take GemSleep gummies every night?",
+        "gg2gWMmurYY_text": "<p>But I must explain to you how all this mistaken idea of denouncing pleasure and praising pain was born and I will give you a complete account of the system, and expound the actual teachings of the great explorer of the truth, the master-builder of human happiness. No one rejects, dislikes, or avoids pleasure itself</p>",
+        "ggq3zNBE3Tg_text": "<p>But I must explain to you how all this mistaken idea of denouncing pleasure and praising pain was born and I will give you a complete account of the system, and expound the actual teachings of the great explorer of the truth, the master-builder of human happiness. No one rejects, dislikes, or avoids pleasure itself</p>",
+        "ggaZyeLSXko_text": "<p>But I must explain to you how all this mistaken idea of denouncing pleasure and praising pain was born and I will give you a complete account of the system, and expound the actual teachings of the great explorer of the truth, the master-builder of human happiness. No one rejects, dislikes, or avoids pleasure itself</p>",
+        "gg5-L0cYjgF_text": "<p>But I must explain to you how all this mistaken idea of denouncing pleasure and praising pain was born and I will give you a complete account of the system, and expound the actual teachings of the great explorer of the truth, the master-builder of human happiness. No one rejects, dislikes, or avoids pleasure itself</p>"
+      }
+    },
+    "gp_shopify_original_section_624202172837397320": {
+      "type": "gp-section-624202172837397320",
+      "settings": {
+        "checksum": ""
+      }
+    },
+    "gp_shopify_original_section_624206428160131830": {
+      "type": "gp-section-624206428160131830",
+      "settings": {
+        "checksum": "",
+        "ggMHuH0-iHo_text": "What Sets Us Apart",
+        "ggU-gvtPpCB_srcSet_desktop_src": "https://cdn.shopify.com/s/files/1/2005/9307/files/gempages_432750572815254551-3a77e727-7ac7-4677-8259-3dc7d2d812cc.png?v=1715565799",
+        "ggC98ipDPBi_text": "<p>Lorem ipsum</p>",
+        "gge8FHLk69s_childItem_0": "<p>Lorem ipsum dolor</p>",
+        "ggVBdJPq-8P_childItem_0": "<p>Lorem ipsum dolor</p>",
+        "ggYAwYqkENP_childItem_0": "<p>Lorem ipsum dolor</p>",
+        "gglrkbXt48-_childItem_0": "<p>Lorem ipsum dolor</p>",
+        "gg6bYzJs4dh_childItem_0": "<p>Lorem ipsum dolor</p>",
+        "ggMgmjZlR1B_srcSet_desktop_src": "https://cdn.shopify.com/s/files/1/2005/9307/files/gempages_432750572815254551-362a3701-63ce-4a6d-a721-4f7962122d0a.png?v=1715597199",
+        "ggQMCv8ZNTY_text": "<p>Lorem ipsum</p>",
+        "ggKgVNNRyZQ_childItem_0": "<p>Lorem ipsum dolor</p>",
+        "ggmbtJHlvDU_childItem_0": "<p>Lorem ipsum dolor</p>",
+        "ggZ4s-JWeX0_childItem_0": "<p>Lorem ipsum dolor</p>",
+        "gg5uy39LsWh_childItem_0": "<p>Lorem ipsum dolor</p>",
+        "ggHs8ovAtVC_childItem_0": "<p>Lorem ipsum dolor</p>",
+        "ggCo1YhigO0_srcSet_desktop_src": "https://cdn.shopify.com/s/files/1/2005/9307/files/gempages_432750572815254551-362a3701-63ce-4a6d-a721-4f7962122d0a.png?v=1715597199",
+        "ggzdp-UGJBw_text": "<p>Lorem ipsum</p>",
+        "gg2FGznSdAK_childItem_0": "<p>Lorem ipsum dolor</p>",
+        "ggwTb1pnGw-_childItem_0": "<p>Lorem ipsum dolor</p>",
+        "gg1Oe0Sqj1x_childItem_0": "<p>Lorem ipsum dolor</p>",
+        "ggQxwBOxb8y_childItem_0": "<p>Lorem ipsum dolor</p>",
+        "ggk06GzOgVA_childItem_0": "<p>Lorem ipsum dolor</p>"
+      }
+    },
+    "gp_shopify_original_section_624207766126330696": {
+      "type": "gp-section-624207766126330696",
+      "settings": {
+        "checksum": "",
+        "ggobUXdXXiz_youtubeUrl": "https://www.youtube.com/watch?v=drIt4RH_kyQ",
+        "ggobUXdXXiz_vimeoUrl": "https://vimeo.com/1095883398",
+        "ggobUXdXXiz_html5Url": "https://cdn.shopify.com/videos/c/o/v/2cd3deb506b54b009063f7270ab5cf2e.mp4",
+        "ggobUXdXXiz_poster_src": "https://cdn.shopify.com/s/files/1/0946/3011/7697/files/Gemini_Generated_Image_1kfm6w1kfm6w1kfm_1.png",
+        "ggFYUbNeaxV_youtubeUrl": "https://www.youtube.com/watch?v=drIt4RH_kyQ",
+        "ggFYUbNeaxV_vimeoUrl": "https://vimeo.com/1095883398",
+        "ggFYUbNeaxV_html5Url": "https://cdn.shopify.com/videos/c/o/v/2cd3deb506b54b009063f7270ab5cf2e.mp4",
+        "ggbmKloktJd_youtubeUrl": "https://www.youtube.com/watch?v=drIt4RH_kyQ",
+        "ggbmKloktJd_vimeoUrl": "https://vimeo.com/1095883398",
+        "ggbmKloktJd_html5Url": "https://cdn.shopify.com/videos/c/o/v/2cd3deb506b54b009063f7270ab5cf2e.mp4",
+        "ggbmKloktJd_poster_src": "https://cdn.shopify.com/s/files/1/0946/3011/7697/files/Gemini_Generated_Image_632wbt632wbt632w.png"
+      }
+    },
+    "gp_shopify_original_section_624237519512273876": {
+      "type": "gp-section-624237519512273876",
       "settings": {
         "section_preload": "true",
         "checksum": "",
-        "ggKizz04we2_dayLabel": "Days",
-        "ggKizz04we2_hourLabel": "HRS",
-        "ggKizz04we2_minuteLabel": "MIN",
-        "ggKizz04we2_secondLabel": "SEC",
-        "ggKizz04we2_weekLabel": "Weeks",
-        "ggUcxGiWMQo_text": "<p>Limited time:30% OFF + FREESHIPPING</p>",
-        "ggZzPaCnshj_text": "<p>🎁&nbsp;LIMITED TIME - HAIR DAY SALE 🎁</p>"
+        "ggbxcpVHmnt_text": "<p>Sale</p>",
+        "gg25bz5JilT_text": "<p>Sale</p>",
+        "ggu5yJayp4A_text": "<p>Sed do eiusmod tempor</p>",
+        "gg-6nPfFYjl_text": "<p>Sed do eiusmod tempor</p>",
+        "gg-wbW5x6A7_text": "<p>“Lorem ipsum dolor sit amet, consectetur</p>",
+        "ggjgLdxVK_D_text": "<p><strong>Timothy Joseph</strong> / Customer</p>",
+        "ggYlxL4UdIq_text": "<p>289 Reviews!</p>",
+        "gg2DdCBirn2_srcSet_desktop_src": "https://cdn.shopify.com/s/files/1/2005/9307/files/gempages_432750572815254551-2f41c2a1-d4eb-4a6e-80f7-edaf4ae2f407.svg?v=1718245635",
+        "ggn-GdB-lU7_srcSet_desktop_src": "https://cdn.shopify.com/s/files/1/2005/9307/files/gempages_432750572815254551-3524a98d-ee3f-4efe-941d-f68e592c1756.svg?v=1718245649",
+        "ggVi4tuEjZ1_srcSet_desktop_src": "https://cdn.shopify.com/s/files/1/2005/9307/files/gempages_432750572815254551-d216d57f-5d45-4f0f-8be6-9fed2dd238cb.svg?v=1718245663",
+        "ggN5uJqMFnA_label": "ADD TO Cart",
+        "ggN5uJqMFnA_outOfStockLabel": "Out of stock",
+        "ggN5uJqMFnA_unavailableLabel": "Unavailable",
+        "ggN5uJqMFnA_successMessage": "Add product to cart successfully",
+        "ggN5uJqMFnA_errorMessage": "Cannot add product to cart",
+        "ggN9opXBnfm_text": "<p>Delivery between 02/10 and 4/10</p>",
+        "ggM1xELJPKR_text": "<p>60-days Money Back Guarantee</p>",
+        "ggVy2SDNGQN_text": "<p>100% Safe Checkout</p>",
+        "gg_UmnTF6KU_childItem_0": "<p>Details</p>",
+        "gg_UmnTF6KU_childItem_1": "<p>SHADE MATCH CHART</p>",
+        "gg_UmnTF6KU_childItem_2": "<p>Accordion 3</p>",
+        "ggKUlMEw1z7_text": "<p>Details info</p>",
+        "ggfafbx34vE_text": "Replace this text with your content",
+        "ggTIzUklX0r_text": "Replace this text with your content",
+        "gghzXiRU_YF_srcSet_desktop_src": "https://cdn.shopify.com/s/files/1/2005/9307/files/orglogos-02_9a5164f5-fb12-4bec-8106-302b2bda4cb0.png",
+        "gg9AJYy7nnd_text": "<p>30 day Money-Back</p>",
+        "ggRTalJb7rF_srcSet_desktop_src": "https://cdn.shopify.com/s/files/1/2005/9307/files/gots-logo_rgb_2018_transp_72dpi-10496efb_f694066b-77e1-42b8-878c-8f1986aa7c75.png",
+        "ggJhDhwho9q_text": "<p>99% Perfect Match on First Try!</p>",
+        "ggwP7AoMKOS_srcSet_desktop_src": "https://cdn.shopify.com/s/files/1/2005/9307/files/OEKO-TEX-Standart-100-566x400_1.png",
+        "ggqgvoX0WTG_text": "<p>Free Shipping</p><p>Over $33</p>"
       }
     },
-    "gp_shopify_original_section_624186988534170440": {
-      "type": "gp-section-624186988534170440",
+    "gp_shopify_original_section_624275533378618324": {
+      "type": "gp-section-624275533378618324",
       "settings": {
         "checksum": "",
-        "gg4SrFZq840_label": "Add to cart",
-        "gg4SrFZq840_outOfStockLabel": "Out of stock",
-        "gg4SrFZq840_unavailableLabel": "Unavailable",
-        "gg4SrFZq840_variantSelectionRequiredMessage": "Please select a variant to add product to cart",
-        "gg4SrFZq840_successMessage": "Add product to cart successfully",
-        "gg4SrFZq840_errorMessage": "Cannot add product to cart"
+        "ggpNH3qyThq_text": "<p>As Seen On</p>",
+        "ggUNDJXhY-E_srcSet_desktop_src": "https://cdn.shopify.com/s/files/1/2005/9307/files/gempages_432750572815254551-8cb41412-0e49-4984-b835-306a6a6aec7e.svg?v=1716539620",
+        "ggDvXNRTZCR_srcSet_desktop_src": "https://cdn.shopify.com/s/files/1/2005/9307/files/gempages_432750572815254551-09b32a0d-a2e8-4b33-a417-0b7b1e2ad64c.svg?v=1716539696",
+        "ggv1qu15LNo_srcSet_desktop_src": "https://cdn.shopify.com/s/files/1/2005/9307/files/gempages_432750572815254551-401a712a-a014-4895-9657-3853f98170ee.svg?v=1716539738",
+        "ggHR1LNBX0d_srcSet_desktop_src": "https://cdn.shopify.com/s/files/1/2005/9307/files/gempages_432750572815254551-62791a3f-7360-4188-85a6-ae6e8e268b62.svg?v=1716538188",
+        "ggQiOlJ7-2-_srcSet_desktop_src": "https://cdn.shopify.com/s/files/1/2005/9307/files/gempages_432750572815254551-bfc3ae1c-53f4-471b-bff6-1eff91a8eee1.svg?v=1716538141",
+        "ggckk0d8i7i_srcSet_desktop_src": "https://cdn.shopify.com/s/files/1/2005/9307/files/gempages_432750572815254551-4d2f2e0d-3391-4b0a-a832-4faa914ba781.svg?v=1716538164"
       }
     },
-    "gp_shopify_original_section_624186989876347720": {
-      "type": "gp-section-624186989876347720",
+    "gp_shopify_original_section_624286001757422408": {
+      "type": "gp-section-624286001757422408",
       "settings": {
         "checksum": "",
-        "ggbiy1UjPbk_text": "<p>“Based on ingredients, Gemix offers a well-rounded approach to hair health and reducing thinning.”</p>",
-        "ggkNTEEuFkh_srcSet_desktop_src": "https://cdn.shopify.com/s/files/1/2005/9307/files/gempages_432750572815254551-776860f5-b858-4190-ac59-9b88d30a524d.png",
-        "ggkNTEEuFkh_srcSet_mobile_src": "https://cdn.shopify.com/s/files/1/2005/9307/files/gempages_432750572815254551-ce1561de-3002-4cea-9bdd-5f0adbc856f5.png",
-        "ggNvY6AiRBV_text": "<p>Rachel Lin - Hair Specialist</p>"
+        "ggAyxR9XS-o_srcSet_desktop_src": "https://cdn.shopify.com/s/files/1/2005/9307/files/image_demo.jpg",
+        "ggAyxR9XS-o_srcSet_mobile_src": "https://cdn.shopify.com/s/files/1/0740/5705/6392/files/family-guy-peter-griffin.gif"
       }
     },
-    "gp_shopify_original_section_624186990329332470": {
-      "type": "gp-section-624186990329332470",
+    "gp_shopify_original_section_624286109467149046": {
+      "type": "gp-section-624286109467149046",
       "settings": {
         "checksum": "",
-        "ggvTCGCoNYH_text": "As Featured In",
-        "ggU5mHG6cdT_srcSet_desktop_src": "https://cdn.shopify.com/s/files/1/2005/9307/files/gempages_432750572815254551-2cbeeed6-194d-4cc9-b8f0-0be8b4f7b274.svg",
-        "gg9gxWtoDo7_srcSet_desktop_src": "https://cdn.shopify.com/s/files/1/2005/9307/files/gempages_432750572815254551-4e3559be-fbfe-4d35-86c8-eef45ac852d3.svg",
-        "ggru7VjacmN_srcSet_desktop_src": "https://cdn.shopify.com/s/files/1/2005/9307/files/gempages_432750572815254551-a62c7382-44b5-4b8a-b2af-4bef057d11ea.svg",
-        "ggBYm89wMQr_srcSet_desktop_src": "https://cdn.shopify.com/s/files/1/2005/9307/files/gempages_432750572815254551-450f2634-a245-4be0-b322-741cd7897b06.svg",
-        "ggX058gHJ2Z_srcSet_desktop_src": "https://cdn.shopify.com/s/files/1/2005/9307/files/gempages_432750572815254551-86492abc-13d3-4402-980f-6b51aa8820c4.svg",
-        "gglRK-bous7_srcSet_desktop_src": "https://cdn.shopify.com/s/files/1/2005/9307/files/gempages_432750572815254551-7db7d4c1-a4eb-4d04-afd4-23a978d3b6fe.svg"
+        "ggiikKE1yzo_srcSet_desktop_src": "https://cdn.shopify.com/s/files/1/2005/9307/files/image_demo.jpg",
+        "ggiikKE1yzo_srcSet_mobile_src": "https://cdn.shopify.com/s/files/1/0740/5705/6392/files/family-guy-peter-griffin.gif"
       }
     },
-    "gp_shopify_original_section_624186990480327496": {
-      "type": "gp-section-624186990480327496",
+    "gp_shopify_original_section_624286132787479286": {
+      "type": "gp-section-624286132787479286",
       "settings": {
         "checksum": "",
-        "ggdM0-iUPjg_text": "Powerful Ingredients, Proven Benefits",
-        "gg2nAiKwklC_text": "<p>Gemix helps restore strong, healthy hair with ingredients that truly make a difference.</p>",
-        "gg9kqODLN33_srcSet_desktop_src": "https://cdn.shopify.com/s/files/1/2005/9307/files/gempages_432750572815254551-66b92020-b1db-4799-a708-de4f176e2f44.png",
-        "ggoyQQfyn98_srcSet_desktop_src": "https://cdn.shopify.com/s/files/1/2005/9307/files/gempages_432750572815254551-84c71217-4c58-4145-a2a5-937282b23479.png",
-        "ggdTSODVSUs_srcSet_desktop_src": "https://cdn.shopify.com/s/files/1/2005/9307/files/gempages_432750572815254551-6e22f71e-9be9-476e-806b-29338532fb63.png",
-        "ggMnMEpZQ8W_srcSet_desktop_src": "https://cdn.shopify.com/s/files/1/2005/9307/files/gempages_432750572815254551-70bb610a-ebb0-430f-9caa-08f8642af3b1.png",
-        "gg5vbioT5fY_srcSet_desktop_src": "https://cdn.shopify.com/s/files/1/2005/9307/files/gempages_432750572815254551-82ae1bf9-a0c1-4d82-9cdd-bba5268474fa.png",
-        "ggblzmmKe2u_text": "<p>Clinically Proven Benefits for Stronger, Healthier Hair</p>"
+        "gg2jQ0DM6rs_text": "5 Reasons Why You'll Love it",
+        "ggp6liiGJEC_text": "Your heading text goes here",
+        "ggQijHcNI2z_text": "Replace this text with your content",
+        "ggI9bUIDJgk_text": "Your heading text goes here",
+        "gg8H5uBolY5_text": "Replace this text with your content",
+        "ggYLb9vIvmj_text": "Your heading text goes here",
+        "gg5T_oNaQI0_text": "Replace this text with your content",
+        "gg9sTAbr7Zz_text": "Your heading text goes here",
+        "ggEhuvu-WPv_text": "Replace this text with your content"
       }
     },
-    "gp_shopify_original_section_624186990497104414": {
-      "type": "gp-section-624186990497104414",
+    "gp_shopify_original_section_624321537360528118": {
+      "type": "gp-section-624321537360528118",
       "settings": {
-        "checksum": "",
-        "gg7FmEiviOA_srcSet_desktop_src": "https://cdn.shopify.com/s/files/1/2005/9307/files/6565.png"
+        "checksum": ""
       }
     },
-    "gp_shopify_original_section_624186990530658846": {
-      "type": "gp-section-624186990530658846",
+    "gp_shopify_original_section_624322745269748552": {
+      "type": "gp-section-624322745269748552",
       "settings": {
-        "checksum": "",
-        "ggLymjLZ1ji_srcSet_desktop_src": "https://cdn.shopify.com/s/files/1/2005/9307/files/6344.png"
+        "checksum": ""
       }
     },
-    "gp_shopify_original_section_624186990530659284": {
-      "type": "gp-section-624186990530659284",
+    "gp_shopify_original_section_624334572217172726": {
+      "type": "gp-section-624334572217172726",
       "settings": {
-        "checksum": "",
-        "gg54sQzYl8t_srcSet_desktop_src": "https://cdn.shopify.com/s/files/1/2005/9307/files/642.png"
-      }
-    },
-    "gp_shopify_original_section_624186990547436500": {
-      "type": "gp-section-624186990547436500",
-      "settings": {
-        "checksum": "",
-        "gggAahfaTS1_srcSet_desktop_src": "https://cdn.shopify.com/s/files/1/2005/9307/files/Frame_1437253899.png"
-      }
-    },
-    "gp_shopify_original_section_624186990916535030": {
-      "type": "gp-section-624186990916535030",
-      "settings": {
-        "checksum": "",
-        "ggq2iXQSQ3p_text": "FAQs",
-        "ggx2MigoWNo_text": "<p>Got questions? We’ve got answer...</p>",
-        "ggmgxcjsL4s_childItem_0": "<p>How long does it take to see results?</p>",
-        "ggmgxcjsL4s_childItem_1": "<p>Who is Gemix suitable for?</p>",
-        "ggmgxcjsL4s_childItem_2": "<p>How many capsules should I take per day?</p>",
-        "ggmgxcjsL4s_childItem_3": "<p>What makes Gemix different from other hair supplements?</p>",
-        "ggmgxcjsL4s_childItem_4": "<p>Is it suitable for vegans or vegetarians?</p>",
-        "ggmgxcjsL4s_childItem_5": "<p>Is there a money-back guarantee?</p>",
-        "ggVJoohCSzA_text": "<p>Most users begin to notice reduced shedding and stronger hair within 4–6 weeks. Fuller growth is typically seen after 8–12 weeks of consistent use.</p>",
-        "ggBxVTyAVRH_text": "<p>Follix is designed for adults of all genders experiencing hair thinning, shedding, or slow growth. It’s safe for most people, but check with your doctor if you’re pregnant, nursing, or have a medical condition.</p>",
-        "ggf3POMIrCX_text": "<p>Only 2 capsules a day for real results. Take it with water, preferably after a meal.</p>",
-        "ggy9YeAXGOh_text": "<p>It combines marine collagen, salmon cartilage extract, biotin, and other clinically studied ingredients in one powerful capsule—no fillers, no fluff, just real results.</p>",
-        "ggrLtAUQIVy_text": "<p>No. Follix contains marine collagen and salmon cartilage, so it is not vegan or vegetarian.</p>",
-        "ggqJL6ePOfg_text": "<p>Yes! We offer a 30-day satisfaction guarantee. If you’re not happy with your results, contact us for a refund.</p>"
-      }
-    },
-    "gp_shopify_original_section_624186990933312030": {
-      "type": "gp-section-624186990933312030",
-      "settings": {
-        "checksum": "",
-        "ggoLh-LleCA_text": "<p><a href=\"#\">gemix.official</a></p>",
-        "ggJ1zTxP7B3_srcSet_desktop_src": "https://cdn.shopify.com/s/files/1/2005/9307/files/gempages_432750572815254551-ed15a96d-54eb-4c2d-8b45-ded7c8e281f1.png",
-        "gga8bZxZEf5_srcSet_desktop_src": "https://cdn.shopify.com/s/files/1/2005/9307/files/gempages_432750572815254551-c4fb6195-9940-4efd-9531-9828adc9fc23.png",
-        "ggTUqaamjjC_srcSet_desktop_src": "https://cdn.shopify.com/s/files/1/2005/9307/files/gempages_432750572815254551-b0aa876b-7b50-4b11-9faa-09f2859c21bb.png",
-        "gg8q4zqnYCU_srcSet_desktop_src": "https://cdn.shopify.com/s/files/1/2005/9307/files/gempages_432750572815254551-b2ee75b0-491f-48ea-a08b-3abcc04c1122.png",
-        "gg4oZ0PiJTn_srcSet_desktop_src": "https://cdn.shopify.com/s/files/1/2005/9307/files/gempages_432750572815254551-cbcc4e3f-800a-4e88-8ea3-10067f1604f3.png",
-        "ggCFpQNM7vk_srcSet_desktop_src": "https://cdn.shopify.com/s/files/1/2005/9307/files/gempages_432750572815254551-ed15a96d-54eb-4c2d-8b45-ded7c8e281f1.png",
-        "ggVb_fXzsI3_srcSet_desktop_src": "https://cdn.shopify.com/s/files/1/2005/9307/files/gempages_432750572815254551-c4fb6195-9940-4efd-9531-9828adc9fc23.png",
-        "gg3KwCWRNFf_srcSet_desktop_src": "https://cdn.shopify.com/s/files/1/2005/9307/files/gempages_432750572815254551-b0aa876b-7b50-4b11-9faa-09f2859c21bb.png",
-        "ggucZYp64rS_srcSet_desktop_src": "https://cdn.shopify.com/s/files/1/2005/9307/files/gempages_432750572815254551-b2ee75b0-491f-48ea-a08b-3abcc04c1122.png",
-        "ggqqQl2tde6_srcSet_desktop_src": "https://cdn.shopify.com/s/files/1/2005/9307/files/gempages_432750572815254551-cbcc4e3f-800a-4e88-8ea3-10067f1604f3.png"
-      }
-    },
-    "gp_shopify_original_section_624186991017198408": {
-      "type": "gp-section-624186991017198408",
-      "settings": {
-        "checksum": "",
-        "ggoyg11xYEm_text": "Real People. Real Hair Results",
-        "gg5nMTcij2T_text": "<p>Thousands have seen visible improvements in hair growth, strength,</p><p>and confidence with Gemix. You could be next.</p>",
-        "ggFgvu5bfWF_rightImageLabel": "60 Days",
-        "ggFgvu5bfWF_leftImageLabel": "1 Day",
-        "ggFgvu5bfWF_imageLeft_src": "https://cdn.shopify.com/s/files/1/2005/9307/files/gempages_432750572815254551-2c70a9ae-dbf5-49f9-8488-f5feb0d68303.png",
-        "ggFgvu5bfWF_imageRight_src": "https://cdn.shopify.com/s/files/1/2005/9307/files/gempages_432750572815254551-8e711138-4bdc-42ee-85aa-c039ce62fdfe.png",
-        "gg_sVjlvkAz_text": "<p>“My hair stopped shedding and started growing again. It feels thicker. Gemix really works!”</p>",
-        "ggaLr5sTGxM_srcSet_desktop_src": "https://cdn.shopify.com/s/files/1/2005/9307/files/gempages_432750572815254551-fc5a7d6b-6516-4e4f-8835-fae4fb42d90f.png",
-        "ggaLr5sTGxM_srcSet_mobile_src": "https://cdn.shopify.com/s/files/1/2005/9307/files/gempages_432750572815254551-ce1561de-3002-4cea-9bdd-5f0adbc856f5.png",
-        "ggxFN-kJntZ_text": "<p>Jessica</p>",
-        "ggBUqQHFw0C_text": "<p>Customer</p>"
-      }
-    },
-    "gp_shopify_original_section_624186991470183158": {
-      "type": "gp-section-624186991470183158",
-      "settings": {
-        "checksum": "",
-        "ggylqMhdDUl_text": "How to use",
-        "ggcFOdR98MW_text": "<p>While Gemix supports healthy hair from within, don’t forget to eat well, stay active,<br>and get enough rest!</p>",
-        "ggFGnAV2bol_srcSet_desktop_src": "https://cdn.shopify.com/s/files/1/2005/9307/files/gempages_432750572815254551-a6a2f0f3-4cc1-4cf1-b2f4-645764935ea8.png",
-        "ggxBHlD8_NN_text": "<p>Protein breakfast</p>",
-        "ggRY6y8Vvuw_srcSet_desktop_src": "https://cdn.shopify.com/s/files/1/2005/9307/files/gempages_432750572815254551-bfb22938-6917-4f86-adb2-9cd936abaeb2.png",
-        "ggiaD4qR0Jk_text": "<p>Gemix</p>",
-        "ggLDD7f214f_srcSet_desktop_src": "https://cdn.shopify.com/s/files/1/2005/9307/files/gempages_432750572815254551-7366c9b0-a301-4e0c-a0d2-117ba735d05f.png",
-        "ggUR50rrFip_text": "<p>Gentle scalp massage</p>",
-        "ggcExrkBwnm_srcSet_desktop_src": "https://cdn.shopify.com/s/files/1/2005/9307/files/gempages_432750572815254551-083b035b-96cb-4ef3-9d6d-b69e44f4aeea.png",
-        "ggfehMJb73h_text": "<p>Balanced lunch</p>",
-        "ggzudfTVFDw_srcSet_desktop_src": "https://cdn.shopify.com/s/files/1/2005/9307/files/gempages_432750572815254551-bfb22938-6917-4f86-adb2-9cd936abaeb2.png",
-        "ggeduTWSLDE_text": "<p>Gemix</p>",
-        "gg-nxoB_1MO_srcSet_desktop_src": "https://cdn.shopify.com/s/files/1/2005/9307/files/gempages_432750572815254551-7366c9b0-a301-4e0c-a0d2-117ba735d05f.png",
-        "gg0lJhZS79D_text": "<p>Gentle scalp massage</p>",
-        "ggEaGW_tqmQ_srcSet_desktop_src": "https://cdn.shopify.com/s/files/1/2005/9307/files/gempages_432750572815254551-51d9035e-2791-420b-9d71-54960938e820.png",
-        "ggzhOWEIOnl_text": "<p>Light dinner</p>",
-        "gg2joxXo30b_srcSet_desktop_src": "https://cdn.shopify.com/s/files/1/2005/9307/files/gempages_432750572815254551-7366c9b0-a301-4e0c-a0d2-117ba735d05f.png",
-        "ggrCCY4j4q4_text": "<p>Gentle scalp massage</p>",
-        "gglE45scof4_srcSet_desktop_src": "https://cdn.shopify.com/s/files/1/2005/9307/files/gempages_432750572815254551-dd57a29b-bb95-49fb-840b-0ae8d6eb9744.png",
-        "gg-fzWSaP0X_text": "<p>Get 8 hours of sleep</p>",
-        "ggfAgXVlAKo_text": "<p>Evening</p>",
-        "ggRItcZpV1M_text": "<p>Noon</p>",
-        "ggE5T8h916o_text": "<p>&nbsp; Morning&nbsp;</p>",
-        "gguMR5oreA8_srcSet_desktop_src": "https://cdn.shopify.com/s/files/1/2005/9307/files/gempages_432750572815254551-61d73f66-d23b-4e5f-96d1-efe04673c1ef.png"
-      }
-    },
-    "gp_shopify_original_section_624186991956722422": {
-      "type": "gp-section-624186991956722422",
-      "settings": {
-        "checksum": "",
-        "ggAsNQiyRU5_srcSet_desktop_src": "https://cdn.shopify.com/s/files/1/2005/9307/files/55454.png"
-      }
-    },
-    "gp_shopify_original_section_624186991973499638": {
-      "type": "gp-section-624186991973499638",
-      "settings": {
-        "checksum": "",
-        "ggRKSce8iGw_srcSet_desktop_src": "https://cdn.shopify.com/s/files/1/2005/9307/files/Frame_1437253898.png"
-      }
-    },
-    "gp_shopify_original_section_624186992074162934": {
-      "type": "gp-section-624186992074162934",
-      "settings": {
-        "checksum": "",
-        "gg2z7eonXUT_srcSet_desktop_src": "https://cdn.shopify.com/s/files/1/2005/9307/files/6565.png",
-        "ggFSHNiI7L4_srcSet_desktop_src": "https://cdn.shopify.com/s/files/1/2005/9307/files/55454.png",
-        "gg7Uyfl_GGQ_srcSet_desktop_src": "https://cdn.shopify.com/s/files/1/2005/9307/files/642.png",
-        "ggKXFCxIHW-_srcSet_desktop_src": "https://cdn.shopify.com/s/files/1/2005/9307/files/6344.png",
-        "ggEAOwxC_Iq_srcSet_desktop_src": "https://cdn.shopify.com/s/files/1/2005/9307/files/Frame_1437253898.png",
-        "ggBA8gI6W9I_srcSet_desktop_src": "https://cdn.shopify.com/s/files/1/2005/9307/files/Frame_1437253899.png",
-        "ggahRV-vW1v_text": "<p>122,000+ Happy Customers</p>",
-        "gg4Ub0uGtTt_text": "<p>Powered by salmon cartilage</p>",
-        "ggvKwz-i7Gk_text": "<p>Enhanced with biotin</p>",
-        "ggFyX6e7q5q_text": "<p>Infused with herbal extracts</p>",
-        "ggMlBWsdm_Z_text": "<p>Targets root causes</p>",
-        "gg-XwWVOSmi_srcSet_desktop_src": "https://cdn.shopify.com/s/files/1/2005/9307/files/fedfd.png",
-        "gg6Pkk19ZU8_text": "<p><i>“Gemix Hair Supplement is formulated to support healthy-looking hair as part of a consistent daily routine.”</i></p>",
-        "ggXIdAjd1K9_text": "<p>Dr. Sarah Mitchell, PhD | Clinical Nutrition Specialist</p>",
-        "ggEjdLTr25__text": "<p>Choose Your Treatment Plan</p>",
-        "ggzDKbXmds7_text": "<p>6-Month Treatment</p>",
-        "ggxAuGaSOOM_text": "<p>(6 bottles)</p>",
-        "gg1Gw1LmwCm_text": "<p>($27.96 per bottle)</p>",
-        "ggbey6tTfT6_text": "<p>&nbsp; &nbsp;Most Popular &nbsp;&nbsp;</p>",
-        "ggbey6tTfT6_background_desktop_image_src": "https://cdn.shopify.com/s/files/1/2005/9307/files/gempages_432750572815254551-cd5abc3e-dcee-423f-962d-17a9fbb8b08e.png",
-        "ggfMhqe6IIb_text": "<p>3-Month Treatment</p>",
-        "gghcjj6oSZ__text": "<p>(3 bottles)</p>",
-        "ggtAqqqqI4D_text": "<p>($31.50 per bottle)</p>",
-        "ggnnrpWjcf0_text": "<p>1-Month Experiment</p>",
-        "ggA_WPc7nyM_text": "<p>(1 bottle)</p>",
-        "gg5oGudAgCY_text": "<p>($35.00 per bottle)</p>",
-        "ggFmg78ScjP_srcSet_desktop_src": "https://cdn.shopify.com/s/files/1/2005/9307/files/gempages_432750572815254551-0d41f634-7d11-4d13-8663-83420929b25e.png",
-        "ggmaiBhHNNb_text": "<p>Get a free scalp massager &amp; freeshipping worldwide</p>",
-        "gg8Jr-LFmxj_text": "<p>when you purchase 3 or more bottles of Gemix.</p>",
-        "gg4ONNlAREF_customText": "Expected delivery",
-        "ggi0X7aQyRd_text": "<p>Your Gemix order is carefully packed and shipped quickly to ensure it arrives safely at your doorstep.</p>",
-        "ggx3S1S4mB1_label": "Add to cart",
-        "ggx3S1S4mB1_outOfStockLabel": "Out of stock",
-        "ggx3S1S4mB1_unavailableLabel": "Unavailable",
-        "ggx3S1S4mB1_variantSelectionRequiredMessage": "Please select a variant to add product to cart",
-        "ggx3S1S4mB1_successMessage": "Add product to cart successfully",
-        "ggx3S1S4mB1_errorMessage": "Cannot add product to cart",
-        "gg7XQoky33I_text": "<p>30-day money-back guarantee</p>",
-        "ggCqO2YsUrQ_srcSet_desktop_src": "https://cdn.shopify.com/s/files/1/2005/9307/files/gempages_432750572815254551-a739e588-df2a-4412-b6b9-9fd0010151fa.png",
-        "gg1WQwLrUmR_srcSet_desktop_src": "https://cdn.shopify.com/s/files/1/2005/9307/files/gempages_432750572815254551-c4b8628c-4f06-40e9-915f-d730337df1e5.png",
-        "gg_9Fpta8h__srcSet_desktop_src": "https://cdn.shopify.com/s/files/1/2005/9307/files/gempages_432750572815254551-79972f48-667f-42d0-a858-9c748da57068.png",
-        "gg9BDggl3fE_srcSet_desktop_src": "https://cdn.shopify.com/s/files/1/2005/9307/files/gempages_432750572815254551-1aaba532-a221-4682-955d-9ddfeeef0a57.png",
-        "ggTtEGwsiKH_srcSet_desktop_src": "https://cdn.shopify.com/s/files/1/2005/9307/files/gempages_432750572815254551-50576910-49f7-4ca6-9684-eab855df947e.png",
-        "ggJUIfIe6yC_text": "<p>Real Voices</p>",
-        "ggq9k-nfEqy_text": "Trusted by<br>Gemix Users",
-        "gg7WY8GKUou_text": "<p><span style=\"font-size:14px;\"><strong>122,000+</strong></span></p><p>Happy Customers</p>",
-        "gg5LktN7QTy_youtubeUrl": "https://www.youtube.com/watch?v=drIt4RH_kyQ",
-        "gg5LktN7QTy_vimeoUrl": "https://vimeo.com/1095883398",
-        "gg5LktN7QTy_html5Url": "https://cdn.shopify.com/videos/c/o/v/2cd3deb506b54b009063f7270ab5cf2e.mp4",
-        "gg5LktN7QTy_poster_src": "https://cdn.shopify.com/s/files/1/2005/9307/files/Frame_1437253895.png",
-        "ggYC_k4uZCm_text": "@emily",
-        "ggocZfpvCf6_youtubeUrl": "https://www.youtube.com/watch?v=drIt4RH_kyQ",
-        "ggocZfpvCf6_vimeoUrl": "https://vimeo.com/1095883398",
-        "ggocZfpvCf6_html5Url": "https://cdn.shopify.com/videos/c/o/v/2cd3deb506b54b009063f7270ab5cf2e.mp4",
-        "ggocZfpvCf6_poster_src": "https://cdn.shopify.com/s/files/1/2005/9307/files/Frame_1437253897.png",
-        "ggovBm7q8yo_text": "@sophiem",
-        "ggN1Awn7cJL_youtubeUrl": "https://www.youtube.com/watch?v=drIt4RH_kyQ",
-        "ggN1Awn7cJL_vimeoUrl": "https://vimeo.com/1095883398",
-        "ggN1Awn7cJL_html5Url": "https://cdn.shopify.com/videos/c/o/v/2cd3deb506b54b009063f7270ab5cf2e.mp4",
-        "ggN1Awn7cJL_poster_src": "https://cdn.shopify.com/s/files/1/2005/9307/files/Frame_1437253896.png",
-        "gg7skAxq5Sc_text": "@laura"
-      }
-    },
-    "gp_shopify_original_section_624186992174826312": {
-      "type": "gp-section-624186992174826312",
-      "settings": {
-        "checksum": "",
-        "ggK5O66s796_text": "Vitamin Power for Your Hair",
-        "gg85LU_f-Ow_text": "<p>Powered by Biotin, Vitamin B5, E &amp; B12 — working together to nourish hair from within,<br>boost growth, and reduce shedding.</p>",
-        "ggM_nSFb97Z_srcSet_desktop_src": "https://cdn.shopify.com/s/files/1/2005/9307/files/gempages_432750572815254551-e2759727-90a7-4381-8259-70109d9e2fcf.png",
-        "ggQCHMoMdbj_srcSet_desktop_src": "https://cdn.shopify.com/s/files/1/2005/9307/files/gempages_432750572815254551-14099c26-5724-46ad-9d5b-23218519cebb.png",
-        "ggSDnh7rABw_text": "<p>Hair Growth</p>",
-        "ggTFLCIBEsE_srcSet_desktop_src": "https://cdn.shopify.com/s/files/1/2005/9307/files/gempages_432750572815254551-3f999a7f-4d72-402d-818e-a22612c7a8db.png",
-        "ggIFX_XrMlp_text": "<p>Root Strength</p>",
-        "ggMSiIUCCZk_srcSet_desktop_src": "https://cdn.shopify.com/s/files/1/2005/9307/files/gempages_432750572815254551-d40725b8-5537-4bee-a604-0b131aaf009c.png",
-        "ggunCEf644r_text": "<p>Shine Boost</p>",
-        "ggYL_PaOwlV_srcSet_desktop_src": "https://cdn.shopify.com/s/files/1/2005/9307/files/gempages_432750572815254551-b2e6ee29-e92b-4391-a15d-03150b11cd93.png",
-        "ggu0aCz0s1b_text": "<p>DHT Defense</p>",
-        "ggJYvcubIgM_srcSet_desktop_src": "https://cdn.shopify.com/s/files/1/2005/9307/files/gempages_432750572815254551-35b5a58b-b921-4796-96df-93f483778297.png",
-        "ggP3q53gWyl_text": "<p>Scalp Balance</p>",
-        "ggQb6KoJfox_srcSet_desktop_src": "https://cdn.shopify.com/s/files/1/2005/9307/files/gempages_432750572815254551-87cbeb3c-63e4-4098-b54a-d6645a8dac53.png",
-        "ggrpqpESk2j_text": "<p>Vital Support</p>"
-      }
-    },
-    "gp_shopify_original_section_624186992493593556": {
-      "type": "gp-section-624186992493593556",
-      "settings": {
-        "checksum": "",
-        "ggC8WvaMCM8_text": "Our emails are plastic-free too.",
-        "gg1m1v8Uowd_text": "<p>By submitting your email, you agree to receive emails from Leaf and accept our&nbsp;<a href=\"#\"><u>Terms of Use</u></a>&nbsp;and our&nbsp;<a href=\"3\"><u>Privacy Policy</u></a>.</p>",
-        "ggzXy-vPLWR_successMessage": "Thanks for contacting us. We'll get back to you as soon as possible.",
-        "ggzXy-vPLWR_errorMessage": "Can’t send email. Please try again later.",
-        "gggk9Koynu4_placeholder": "Email",
-        "ggExPZMco6G_srcSet_desktop_src": "https://cdn.shopify.com/s/files/1/2005/9307/files/gempages_432750572815254551-477c9c78-2201-4588-88e6-78ffc1ceeca5.svg",
-        "ggExPZMco6G_alt": "Alt Image",
-        "ggExPZMco6G_title": "Image Title",
-        "ggjNUS32gZ5_srcSet_desktop_src": "https://cdn.shopify.com/s/files/1/2005/9307/files/gempages_432750572815254551-7e56f575-e8b6-4e45-ba58-ec34167b5fee.svg",
-        "ggjNUS32gZ5_alt": "Alt Image",
-        "ggjNUS32gZ5_title": "Image Title",
-        "gg9qnIrVvfZ_srcSet_desktop_src": "https://cdn.shopify.com/s/files/1/2005/9307/files/gempages_432750572815254551-608d8552-05a4-4065-b328-73e84c230e48.svg",
-        "gg9qnIrVvfZ_alt": "Alt Image",
-        "gg9qnIrVvfZ_title": "Image Title",
-        "ggKmaZGm8zF_srcSet_desktop_src": "https://cdn.shopify.com/s/files/1/2005/9307/files/gempages_432750572815254551-749a8401-77e9-4af5-a5d8-9e458bf61b3f.svg",
-        "ggKmaZGm8zF_alt": "Alt Image",
-        "ggKmaZGm8zF_title": "Image Title",
-        "gg1k-NQTfnm_text": "<p>Company</p>",
-        "ggwRN9M4Ep-_text": "<p><a href=\"#\">About</a></p>",
-        "gg9m4UedXE8_text": "<p><a href=\"#\">Contact</a></p>",
-        "ggh_u2ONS7K_text": "<p><a href=\"#\">Shipping &amp; Return</a></p>",
-        "ggPV08YLaRF_text": "<p><a href=\"#\">FAQs</a></p>",
-        "ggLib0Mm5u9_text": "<p>Information</p>",
-        "ggto3wg0jdd_text": "<p><a href=\"#\">My Account</a></p>",
-        "ggB4ykUAGB3_text": "<p><a href=\"#\">Login</a></p>",
-        "ggH4ZGcMAr5_text": "<p><a href=\"#\">My Cart</a></p>",
-        "gglGXX09FMT_text": "<p><a href=\"#\">Checkout</a></p>",
-        "gg0yn8yuj7G_text": "<p>© 2025, Gemix.</p>",
-        "ggSbZ-W091f_srcSet_desktop_src": "https://cdn.shopify.com/s/files/1/2005/9307/files/gempages_432750572815254551-37cfceb1-f71a-40bc-a9c5-ebecbd390097.png",
-        "ggSbZ-W091f_alt": "Alt Image",
-        "ggSbZ-W091f_title": "Image Title"
+        "checksum": ""
       }
     },
     "main": {
@@ -347,6 +207,22 @@
           "type": "quantity_selector",
           "disabled": true,
           "settings": {}
+        },
+        "loox_reviews_loox_rating_MUMePG": {
+          "type": "shopify://apps/loox-reviews/blocks/loox-rating/5c3b337f-fd14-4df5-b1d6-80ec13e6e28e",
+          "disabled": true,
+          "settings": {
+            "contentSize": 16,
+            "pattern": "",
+            "hideText": false,
+            "alignment": "",
+            "layout": "",
+            "textColor": "",
+            "starColor": "",
+            "showAllReviews": false,
+            "looxOpenFloatingWidget": false,
+            "emptyRatingWidget": false
+          }
         },
         "price": {
           "type": "price",
@@ -376,11 +252,13 @@
         "vendor",
         "variant_picker",
         "quantity_selector",
+        "loox_reviews_loox_rating_MUMePG",
         "price",
         "buy_buttons",
         "description",
         "share"
       ],
+      "disabled": true,
       "settings": {
         "enable_sticky_info": true,
         "media_size": "large",
@@ -398,6 +276,7 @@
     },
     "related-products": {
       "type": "related-products",
+      "disabled": true,
       "settings": {
         "heading": "Related products",
         "heading_size": "h2",
@@ -417,23 +296,18 @@
   "order": [
     "main",
     "related-products",
-    "gp_shopify_original_section_624186988517393224",
-    "gp_shopify_original_section_624186992074162934",
-    "gp_shopify_original_section_624186990480327496",
-    "gp_shopify_original_section_624186992174826312",
-    "gp_shopify_original_section_624186989876347720",
-    "gp_shopify_original_section_624186991470183158",
-    "gp_shopify_original_section_624186991017198408",
-    "gp_shopify_original_section_624186990329332470",
-    "gp_shopify_original_section_624186990916535030",
-    "gp_shopify_original_section_624186990933312030",
-    "gp_shopify_original_section_624186992493593556",
-    "gp_shopify_original_section_624186988534170440",
-    "gp_shopify_original_section_624186990497104414",
-    "gp_shopify_original_section_624186991956722422",
-    "gp_shopify_original_section_624186990530659284",
-    "gp_shopify_original_section_624186990530658846",
-    "gp_shopify_original_section_624186991973499638",
-    "gp_shopify_original_section_624186990547436500"
+    "gp_shopify_original_section_624237519512273876",
+    "gp_shopify_original_section_624275533378618324",
+    "gp_shopify_original_section_624207766126330696",
+    "gp_shopify_original_section_624286132787479286",
+    "gp_shopify_original_section_624286109467149046",
+    "gp_shopify_original_section_624322745269748552",
+    "gp_shopify_original_section_624286001757422408",
+    "gp_shopify_original_section_624321537360528118",
+    "gp_shopify_original_section_624206428160131830",
+    "gp_shopify_original_section_624199559534346782",
+    "gp_shopify_original_section_624334572217172726",
+    "gp_shopify_original_section_624199556262790100",
+    "gp_shopify_original_section_624202172837397320"
   ]
 }

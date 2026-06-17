@@ -1,0 +1,41 @@
+
+    
+    
+    <style {% if section.settings.section_preload == "false" %} class="gps-link gps-style" type="text/disabled-css" {% endif %}>.gps-624202172837397320.gps.gpsil [style*="--gtc:"]{grid-template-columns:var(--gtc)}.gps-624202172837397320.gps.gpsil [style*="--p:"]{padding:var(--p)}.gps-624202172837397320.gps.gpsil [style*="--w:"]{width:var(--w)}@media only screen and (max-width:1024px){.gps-624202172837397320.gps.gpsil [style*="--w-tablet:"]{width:var(--w-tablet)}}@media only screen and (max-width:767px){.gps-624202172837397320.gps.gpsil [style*="--w-mobile:"]{width:var(--w-mobile)}}.gps-624202172837397320 .gp-relative{position:relative}.gps-624202172837397320 .gp-mx-auto{margin-left:auto;margin-right:auto}.gps-624202172837397320 .gp-mb-0{margin-bottom:0}.gps-624202172837397320 .gp-grid{display:grid}.gps-624202172837397320 .\!gp-hidden{display:none!important}.gps-624202172837397320 .gp-hidden{display:none}.gps-624202172837397320 .gp-max-w-full{max-width:100%}.gps-624202172837397320 .gp-grid-rows-\[1fr\]{grid-template-rows:1fr}.gps-624202172837397320 .gp-transition-colors{transition-duration:.15s;transition-property:color,background-color,border-color,text-decoration-color,fill,stroke;transition-timing-function:cubic-bezier(.4,0,.2,1)}.gps-624202172837397320 .gp-duration-200{transition-duration:.2s}.gps-624202172837397320 .gp-ease-in-out{transition-timing-function:cubic-bezier(.4,0,.2,1)}@media (max-width:1024px){.gps-624202172837397320 .tablet\:\!gp-hidden{display:none!important}.gps-624202172837397320 .tablet\:gp-hidden{display:none}}@media (max-width:767px){.gps-624202172837397320 .mobile\:\!gp-hidden{display:none!important}.gps-624202172837397320 .mobile\:gp-hidden{display:none}}.gps-624202172837397320 .\[\&_\*\]\:gp-max-w-full *{max-width:100%}</style>
+    
+  
+    
+    
+    
+
+    {% assign locationOrigin = request.origin | append: routes.root_url | split: '/' | join: '/' %}
+
+    
+        <section
+          class="gp-mx-auto gp-max-w-full [&_*]:gp-max-w-full {% if section.settings.section_preload == "false" %}gps-lazy {% endif %}"
+          style="--w:100%;--w-tablet:calc(var(--g-ct-w, 100%) + 2 * var(--g-ct-p, 15px));--w-mobile:calc(var(--g-ct-w, 100%) + 2 * var(--g-ct-p, 15px))"
+        >
+          
+    <gp-row gp-data='{"background":{},"uid":"gClaEKwYwi"}' data-id="gClaEKwYwi" id="gClaEKwYwi" data-same-height-subgrid-container class="gClaEKwYwi gp-relative gp-mx-auto gp-mb-0 gp-grid gp-max-w-full gp-transition-colors gp-duration-200 gp-ease-in-out [&_*]:gp-max-w-full gp-grid-rows-[1fr]" style="--pageType:GP_STATIC;--gtc:minmax(0, 12fr);--w:100%">
+      
+
+      
+
+      
+    </gp-row>
+  
+        </section>
+      
+  
+    
+{% schema %}
+  {
+    
+    "name": "Section 15",
+    "tag": "section",
+    "class": "gps-624202172837397320 gps gpsil",
+    "settings": [{"type":"paragraph","content":"Section design by GemPages. [Click here to start design](https://admin.shopify.com/store/yerba-magic-test-project/apps/gempages-cro/app/shopify/edit?pageType=GP_PRODUCT&editorId=624186233089753865&sectionId=624202172837397320)"},{"type":"select","label":"Section Preload","id":"section_preload","options":[{"label":"On","value":"true"},{"label":"Off","value":"false"},{"label":"Off Lazy Script","value":"off_lazy_script"}],"default":"false"},{"type":"text","label":"Checksum","id":"checksum"}],
+    "blocks": [{"type": "@app"}],
+    "locales": {}
+  }
+{% endschema %}
